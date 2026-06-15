@@ -1,0 +1,20 @@
+{
+  "name": "medusa-playwright-payment-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Git-Raini/medusa-playwright-payment-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Git-Raini/medusa-playwright-payment-testing/issues"
+  },
+  "homepage": "https://github.com/Git-Raini/medusa-playwright-payment-testing#readme",
+  "description": ""
+}
